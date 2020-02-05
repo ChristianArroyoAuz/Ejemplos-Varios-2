@@ -1,0 +1,3 @@
+﻿  Cronometro.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\cronometro\cronometro.cpp(7): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Cronometro.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Cronometro.exe

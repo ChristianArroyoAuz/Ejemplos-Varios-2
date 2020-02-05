@@ -1,0 +1,6 @@
+﻿  Metros a Pulgadas.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\metros a pulgadas\metros a pulgadas.cpp(6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\christian arroyo\desktop\ejemplos varios 2\metros a pulgadas\metros a pulgadas.cpp(11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\christian arroyo\desktop\ejemplos varios 2\metros a pulgadas\metros a pulgadas.cpp(12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\christian arroyo\desktop\ejemplos varios 2\metros a pulgadas\metros a pulgadas.cpp(15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Metros a Pulgadas.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Metros a Pulgadas.exe

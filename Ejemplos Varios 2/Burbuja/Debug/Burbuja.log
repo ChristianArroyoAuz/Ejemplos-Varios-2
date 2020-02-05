@@ -1,0 +1,7 @@
+﻿  Burbuja.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\burbuja\burbuja.cpp(9): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\christian arroyo\desktop\ejemplos varios 2\burbuja\burbuja.cpp(14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\christian arroyo\desktop\ejemplos varios 2\burbuja\burbuja.cpp(17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\christian arroyo\desktop\ejemplos varios 2\burbuja\burbuja.cpp(30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\christian arroyo\desktop\ejemplos varios 2\burbuja\burbuja.cpp(32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Burbuja.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Burbuja.exe

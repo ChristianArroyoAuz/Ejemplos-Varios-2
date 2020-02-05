@@ -1,0 +1,5 @@
+﻿  Transformacion de Temperaturas.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\transformacion de temperaturas\transformacion de temperaturas.cpp(7): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\christian arroyo\desktop\ejemplos varios 2\transformacion de temperaturas\transformacion de temperaturas.cpp(39): warning C4129: ' ': secuencia de escape de carácter no reconocida
+c:\users\christian arroyo\desktop\ejemplos varios 2\transformacion de temperaturas\transformacion de temperaturas.cpp(65): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  Transformacion de Temperaturas.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Transformacion de Temperaturas.exe

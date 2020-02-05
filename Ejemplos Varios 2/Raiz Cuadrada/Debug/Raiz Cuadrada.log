@@ -1,0 +1,4 @@
+﻿  Raiz Cuadrada.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\raiz cuadrada\raiz cuadrada.cpp(6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\christian arroyo\desktop\ejemplos varios 2\raiz cuadrada\raiz cuadrada.cpp(10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Raiz Cuadrada.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Raiz Cuadrada.exe

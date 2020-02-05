@@ -1,0 +1,5 @@
+﻿  Numero Intermedio.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\numero intermedio\numero intermedio.cpp(67): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\christian arroyo\desktop\ejemplos varios 2\numero intermedio\numero intermedio.cpp(71): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\christian arroyo\desktop\ejemplos varios 2\numero intermedio\numero intermedio.cpp(75): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  Numero Intermedio.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Numero Intermedio.exe

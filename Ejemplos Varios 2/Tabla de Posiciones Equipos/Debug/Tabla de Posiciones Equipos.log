@@ -1,0 +1,19 @@
+﻿  Tabla de Posiciones Equipos.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(202): warning C4474: "printf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(202): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(217): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(217): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(217): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(226): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(226): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(226): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(235): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(235): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(235): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(244): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(244): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(244): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
+c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(245): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(245): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\christian arroyo\desktop\ejemplos varios 2\tabla de posiciones equipos\tabla de posiciones equipos.cpp(245): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
+  Tabla de Posiciones Equipos.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Tabla de Posiciones Equipos.exe

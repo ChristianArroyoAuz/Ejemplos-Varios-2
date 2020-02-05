@@ -1,0 +1,6 @@
+﻿  Resultados Academicos.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\resultados academicos\resultados academicos.cpp(282): warning C4473: "printf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\resultados academicos\resultados academicos.cpp(282): note: los marcadores de posición y sus parámetros esperan 4 argumentos variádicos, pero se proporcionaron 2
+  c:\users\christian arroyo\desktop\ejemplos varios 2\resultados academicos\resultados academicos.cpp(282): note: el argumento variádico 3 que falta es requerido por la cadena de formato '%d'
+c:\users\christian arroyo\desktop\ejemplos varios 2\resultados academicos\resultados academicos.cpp(473): warning C4129: '%': secuencia de escape de carácter no reconocida
+  Resultados Academicos.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Resultados Academicos.exe

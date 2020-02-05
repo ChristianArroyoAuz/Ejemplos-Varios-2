@@ -1,0 +1,55 @@
+﻿  Horoscopo.cpp
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(5): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(15): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(15): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(19): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(19): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(26): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(26): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(30): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(30): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(38): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(38): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(42): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(42): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(50): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(50): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(54): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(54): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(62): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(62): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(66): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(66): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(74): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(74): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(78): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(78): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(86): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(86): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(90): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(90): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(98): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(98): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(102): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(102): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(110): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(110): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(114): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(114): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(122): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(122): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(126): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(126): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(134): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(134): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(138): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(138): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(146): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(146): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(150): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(150): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(158): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(158): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(162): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\christian arroyo\desktop\ejemplos varios 2\horoscopo\horoscopo.cpp(162): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  Horoscopo.vcxproj -> C:\Users\Christian Arroyo\Desktop\Ejemplos Varios 2\Debug\Horoscopo.exe
